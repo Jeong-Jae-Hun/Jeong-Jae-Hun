@@ -1,24 +1,19 @@
 ## Hi there 👋
 
-Fullstack Developer based in Seoul, Korea
+Fullstack Developer based in Seoul
 
-### What I work with
+### Tech
 
 ```
-TypeScript • Node.js • PostgreSQL • Redis • AWS
-React Native • Docker • Real-time Systems
+TypeScript • Node.js • PostgreSQL • AWS • Docker
 ```
 
-### Areas of interest
+### Interests
 
-- Real-time architecture (WebSocket, Event-driven)
-- Authentication & Security
-- Developer Experience & Productivity Tools
-
-### Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Jeong-Jae-Hun&show_icons=true&theme=default&hide_border=true&count_private=true&hide_title=true)
+- Backend & Infrastructure
+- Developer Productivity
+- Side Projects
 
 ---
 
-*Currently building things at a startup* 🚀
+*Building something new* 🚀
