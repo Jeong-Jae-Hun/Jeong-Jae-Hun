@@ -12,7 +12,7 @@ TypeScript enthusiast · Since 2021
 
 ### Links
 
-- 📝 [공개 노트](https://Jeong-Jae-Hun.github.io/notes) - 개발하면서 배운 것들
+- 📝 [공개 노트](https://blog.dotdotslash.me/) - 개발하면서 배운 것들
 
 ---
 
